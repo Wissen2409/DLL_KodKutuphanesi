@@ -1,0 +1,11 @@
+/Users/emrahelis/DLL_KodKutuphanesi/bin/Debug/net8.0/DLL_KodKutuphanesi.deps.json
+/Users/emrahelis/DLL_KodKutuphanesi/bin/Debug/net8.0/DLL_KodKutuphanesi.dll
+/Users/emrahelis/DLL_KodKutuphanesi/bin/Debug/net8.0/DLL_KodKutuphanesi.pdb
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.AssemblyInfoInputs.cache
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.AssemblyInfo.cs
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.csproj.CoreCompileInputs.cache
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.dll
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/refint/DLL_KodKutuphanesi.dll
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.pdb
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/ref/DLL_KodKutuphanesi.dll
