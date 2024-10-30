@@ -9,3 +9,4 @@
 /Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/refint/DLL_KodKutuphanesi.dll
 /Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.pdb
 /Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/ref/DLL_KodKutuphanesi.dll
+/Users/emrahelis/DLL_KodKutuphanesi/obj/Debug/net8.0/DLL_KodKutuphanesi.sourcelink.json
