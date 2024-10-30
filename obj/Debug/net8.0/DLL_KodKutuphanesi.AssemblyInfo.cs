@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLL_KodKutuphanesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a2e25e4b3c1aac5a98ce3656f809809cf42a6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLL_KodKutuphanesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLL_KodKutuphanesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

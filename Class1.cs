@@ -18,8 +18,16 @@ public class Ogrenci
     }
     public void Uyu(){
         Console.WriteLine("Öğrenci uyudu!!!");
+
+        // internal olan üyeye aynı sınıf içerisinden erişim mevcut!!
+        DerstenKac();
     }
-    // 
+    internal void DerstenKac(){
+        Console.WriteLine("Dersten kaçıldı");
+    }
+    // Not : DLL'i derlemek için, terminal ekranına dotnet build yazmanız gereklidir!!!!
+
+    
     
 
 }
